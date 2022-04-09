@@ -4,7 +4,7 @@
   "private": true,
     "homepage": "http://amrutapatil1720.github.io/React-Date-Format/",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.26",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
